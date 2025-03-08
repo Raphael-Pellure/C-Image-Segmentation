@@ -3,11 +3,11 @@
 <!-- PROJECT BANNER --> 
 <br /> 
 <div align="center"> 
-  <a href="https://github.com/votre-utilisateur/segmentation-texture"> 
-    <img src="social_preview_segmentation.png"> </a> <h1 align="center">Segmentation d'Images de Texture</h1> 
+  <a href="https://github.com/Raphael-Pellure/C-Image-Segmentation"> 
+    <img src="https://github.com/Raphael-Pellure/Raphael-Pellure/blob/main/social_previews/social_preview_segmentation.png"> </a> <h1 align="center">Segmentation d'Images de Texture</h1> 
   <p> <strong>Segmentation d'Images de Texture</strong> est un projet visant à segmenter des images de texture en utilisant les algorithmes K-means et Mean-Shift. Ce projet explore les techniques de segmentation fond/forme et en $N$ classes, tout en évaluant la qualité des résultats par rapport à des segmentations de référence. 
     
-<br /> <a href="https://github.com/votre-utilisateur/segmentation-texture"><strong>Explorer »</strong></a> <br /> </p> </div> 
+<br /> <a href="https://github.com/Raphael-Pellure/C-Image-Segmentation"><strong>Explorer »</strong></a> <br /> </p> </div> 
     
 <!-- TABLE OF CONTENTS --> 
 <details> <summary>Table des matières</summary> 
